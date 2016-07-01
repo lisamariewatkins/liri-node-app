@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "data interpretation app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisamariewatkins/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisamariewatkins/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/lisamariewatkins/liri-node-app#readme",
+  "dependencies": {
+    "imdb": "^1.1.0",
+    "rotten-tomatoes": "^0.1.0",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.3.0",
+    "twitter": "^1.3.0"
+  }
+}
